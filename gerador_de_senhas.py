@@ -1,4 +1,7 @@
 # gerador_senhas.py
+# Este projeto gera senhas aleatórias seguras com letras, números e símbolos.
+# O usuário pode escolher o tamanho da senha.
+
 import random
 import string
 
